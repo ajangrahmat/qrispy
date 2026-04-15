@@ -1,0 +1,2 @@
+class QrispyError(Exception):
+    pass
