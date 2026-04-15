@@ -1,6 +1,6 @@
 # Qrispy - QRIS Payment SDK
 
-**[�🇧 English](#english) | [🇮🇩 Bahasa Indonesia](#bahasa-indonesia)**
+**[English](#english) | [Bahasa Indonesia](#bahasa-indonesia)**
 
 ---
 
